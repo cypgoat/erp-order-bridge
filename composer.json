@@ -1,5 +1,5 @@
 {
-    "name": "cypriennkeneng/erp-order-bridge",
+    "name": "cypgoat/erp-order-bridge",
     "description": "Symfony service that receives shop orders via signed webhooks and exports them reliably to an ERP (Messenger, retries, idempotency, audit trail).",
     "type": "project",
     "license": "MIT",
